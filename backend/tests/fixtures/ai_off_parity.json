@@ -1,0 +1,73 @@
+[
+  {
+    "startNodeId": "cbd_depot",
+    "destinationNodeIds": [
+      "arcades",
+      "unza_gate",
+      "woodlands_mall"
+    ],
+    "result": {
+      "pathNodes": [
+        "cbd_depot",
+        "arcades",
+        "unza_gate",
+        "woodlands_mall"
+      ],
+      "totalDistanceKm": 0,
+      "durationMinutes": 0,
+      "dijkstraBaselineMin": 0,
+      "timeSavedMinutes": 0,
+      "fuelSavedLitres": 0
+    }
+  },
+  {
+    "startNodeId": "cbd_depot",
+    "destinationNodeIds": [
+      "arcades"
+    ],
+    "result": {
+      "pathNodes": [
+        "cbd_depot",
+        "arcades"
+      ],
+      "totalDistanceKm": 0,
+      "durationMinutes": 0,
+      "dijkstraBaselineMin": 0,
+      "timeSavedMinutes": 0,
+      "fuelSavedLitres": 0
+    }
+  },
+  {
+    "startNodeId": "longacres",
+    "destinationNodeIds": [
+      "makeni_mall",
+      "crossroads"
+    ],
+    "result": {
+      "pathNodes": [
+        "longacres",
+        "makeni_mall",
+        "crossroads"
+      ],
+      "totalDistanceKm": 0,
+      "durationMinutes": 0,
+      "dijkstraBaselineMin": 0,
+      "timeSavedMinutes": 0,
+      "fuelSavedLitres": 0
+    }
+  },
+  {
+    "startNodeId": "arcades",
+    "destinationNodeIds": [],
+    "result": {
+      "pathNodes": [
+        "arcades"
+      ],
+      "totalDistanceKm": 0,
+      "durationMinutes": 0,
+      "dijkstraBaselineMin": 0,
+      "timeSavedMinutes": 0,
+      "fuelSavedLitres": 0
+    }
+  }
+]

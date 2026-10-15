@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+numpy
+networkx
+ortools
+python-dotenv
+tzdata
+pytest
+httpx
